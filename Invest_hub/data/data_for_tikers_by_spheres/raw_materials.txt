@@ -1,0 +1,32 @@
+MTLR, BBG004S68598, Мечел
+GMKN, BBG004731489, Норильский никель
+CHMF, BBG00475K6C3, Северсталь
+PLZL, BBG000R607Y3, Полюс
+NLMK, BBG004S681B4, НЛМК
+ALRS, BBG004S68B31, Алроса
+MAGN, BBG004S68507, ММК
+MTLRP, BBG004S68FR6, Мечел (прив)
+RASP, BBG004S68696, Распадская
+TRMK, BBG004TC84Z8, Трубная металлургическая компания
+UGLD, TCS00A0JPP37, Южуралзолото ГК
+RUAL, BBG008F2T3T2, Русал
+PHOR, BBG004S689R0, ФосАгро
+SGZH, BBG0100R9963, Сегежа
+SELG, BBG002458LF8, Селигдар
+ROLO, BBG004Z2RGW8, Русолово
+ENPG, BBG000RMWQD4, Эн+
+VSMO, BBG004S68CV8, ВСМПО-АВИСМА
+BLNG, BBG000VQWH86, Белон
+LNZL, BBG000SK7JS5, Лензолото
+AMEZ, BBG000RJWGC4, Ашинский метзавод
+LNZLP, BBG000SR0YS4, Лензолото (прив)
+AKRN, BBG004S688G4, Акрон
+KZOS, BBG0029SFXB3, Казаньоргсинтез
+PRFN, TCS00A0JNXF9, ЧЗПСН
+NKNCP, BBG000GQSVC2, Нижнекамскнефтехим (прив)
+KZOSP, BBG0029SG1C1, Казаньоргсинтез (прив)
+NKNC, BBG000GQSRR5, Нижнекамскнефтехим
+KAZT, BBG002B9MYC1, КуйбашевАзот
+CHMK, BBG000RP8V70, ЧМК
+KAZTP, BBG002B9T6Y1, КуйбашевАзот (прив)
+UNKL, BBG002YFXL29, ЮУНК

@@ -1,0 +1,13 @@
+TCSG, TCS00A107UL4, ТКС Холдинг
+SBER, BBG004730N88, Сбербанк
+SFIN, BBG003LYCMB1, ЭсЭфАй
+VTBR, BBG004730ZJ9, ВТБ
+MOEX, BBG004730JJ5, Московская биржа
+AFKS, BBG004S68614, АФК Система
+SVCB, TCS00A0ZZAC4, Совкомбанк
+SBERP, BBG0047315Y7, Сбербанк (прив)
+BSPB, BBG000QJW156, Банк Санкт-Петербург
+RENI, BBG00QKJSX05, Ренессанс Страхование
+CBOM, BBG009GSYN76, МКБ
+CARM, TCS00A105NV2, КарМани
+MGKL, TCS00A0JVJQ8, Мосгорломбард

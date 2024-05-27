@@ -1,0 +1,4 @@
+LSRG, BBG004S68C39, ЛСР Групп
+PIKK, BBG004S68BH6, ПИК
+SMLT, BBG00F6NKQX3, Самолет
+ETLN, 1111, Etalon Group PLC ГДР

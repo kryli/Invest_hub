@@ -1,0 +1,16 @@
+LKOH, BBG004731032, Лукойл
+GAZP, BBG004730RP0, Газпром
+TRNFP, BBG00475KHX6, Транснефть (прив)
+SNGSP, BBG004S681M2, Сургутнефтегаз (прив)
+NVTK, BBG00475KKY8, Новатэк
+ROSN, BBG004731354, Роснефть
+TATN, BBG004RVFFC0, Татнефть
+SNGS, BBG0047315D0, Сургутнефтегаз
+RNFT, BBG00F9XX7H4, Руснефть
+BANEP, BBG004S686N0, Башнефть (прив)
+SIBN, BBG004S684M6, Газпром нефть
+TATNP, BBG004S68829, Татнефть (прив)
+BANE, BBG004S68758, Башнефть
+ELFV, BBG000F6YPH8, ЭЛ5-Энерго
+KRKNP, BBG002B2J5X0, Саратовский НПЗ (прив)
+YAKG, BBG002B298N6, ЯТЭК

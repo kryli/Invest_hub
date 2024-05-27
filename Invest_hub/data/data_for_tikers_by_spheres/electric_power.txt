@@ -1,0 +1,25 @@
+UPRO, BBG004S686W0, Юнипро
+IRAO, BBG004S68473, Интер РАО
+FEES, BBG00475JZZ6, ФСК ЕЭС
+HYDR, BBG00475K2X9, РусГидро
+MSNG, BBG004S687W8, Мосэнерго
+TGKA, BBG000QFH687, ТГК-1
+OGKB, BBG000RK52V1, ОГК-2
+MSRS, BBG004S687G6, МРСК Московский Регион
+MRKP, BBG000VG1034, МРСК Центра и Приволжья
+TGKB, BBG000Q7GG57, ТГК-2
+MRKC, BBG000VH7TZ8, МРСК Центра
+MRKV, BBG000PKWCQ7, МРСК Волги
+MRKZ, BBG000TJ6F42, МРСК Северо-Запада
+TGKN, BBG000RG4ZQ4, ТГК-11
+LSNG, BBG000NLC9Z6, Ленэнерго
+LSNGP, BBG000NLCCM3, Ленэнерго (прив)
+MRKY, BBG000C7P5M7, МРСК Юга
+MRKS, BBG000VJMH65, МРСК Сибири
+KLSB, BBG000DBD6F6, Калугаэнергосбыт
+MRKU, BBG000VKG4R5, МРСК Урала
+DVEC, BBG000V07CB8, ДЭК
+VRSB, BBG000BX7DH0, Воронежская сбытовая компания
+TGKBP, BBG000Q7GJ60, ТГК-2 (прив)
+PMSB, BBG000MZL0Y6, Пермэнергосбыт
+PMSBP, BBG000MZL2S9, Пермэнергосбыт (прив)

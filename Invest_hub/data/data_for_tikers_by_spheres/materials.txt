@@ -1,0 +1,9 @@
+SLVRUB_TOM 
+GLDRUB_TOM
+USD000UTSTOM
+CNYRUB_TOM
+NlM4 - никель
+NGN4 - природный газ
+BRG5 - нефть
+EuZ4 - евро_рубль
+SFZ4 - S&P 500
